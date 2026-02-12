@@ -77,6 +77,18 @@ Overall, bill size is the primary driver of tipping behavior in this dataset.
 
 ---
 
+## Tools Used
+
+* R
+* R packages:
+
+  * `tidyverse` (data wrangling and plotting)
+  * `ggplot2` (visualization)
+  * `dplyr`, `tidyr` (cleaning and transformation)
+  * `broom` (tidy model output)
+
+---
+
 ## Repository Structure
 
 ```
@@ -95,4 +107,4 @@ Thomas Hesselbo
 Gracie Shao
 Frances Shen
 
-Just tell me the tone you want.
+
